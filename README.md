@@ -11,4 +11,4 @@ Subject of the code is:
 6. Numerical solution of steady-state IC pair cascades: Experimental extension to synchrotron IC pair cascades: Specification of the synchrotron photons kinetic equation, super iteration
 7. Numerical solution of steady-state IC pair cascades: Obsolete part to determine N in the Thomson regime, computation of the HE photon spectrum, conversion to observed flux density, comparison with observational data, main file executions
 
-
+The code was developed with python 3.4.1 with the Interactive Editor for Python (IEP) 3.6 of Pyzo. It is optimised for usage on 64 bit Windows systems. Multi-core applications might not be working within IEP. To execute the multi-core-taylored algorithms, Windows shell or power shell has to be used, or shell on unix systems. 
